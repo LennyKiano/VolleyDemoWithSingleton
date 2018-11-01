@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
     Button button;
     TextView textView;
 
-    String url="http://192.168.100.8/greetings.php";
+    String url="http://192.168.100.8/greetings.php";        //put in your own URL here 
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
